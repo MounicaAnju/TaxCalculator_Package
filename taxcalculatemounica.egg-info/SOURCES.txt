@@ -1,0 +1,10 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+taxcalculatemounica/__init__.py
+taxcalculatemounica/taxcal.py
+taxcalculatemounica.egg-info/PKG-INFO
+taxcalculatemounica.egg-info/SOURCES.txt
+taxcalculatemounica.egg-info/dependency_links.txt
+taxcalculatemounica.egg-info/top_level.txt
